@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your "Palettes Wallpaper App" that you can use for GitHub:
-
----
 
 # Palettes Wallpaper App
 
