@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "counterAppBarTitle": "Counter",
+  "@counterAppBarTitle": {
+    "description": "Text shown in the AppBar of the Counter Page"
+  },
+  "bottomWallSelectorTitle": "Select Wallpaper",
+  "bottomWallSelectorSubTitle": "Choose where to apply the wallpaper",
+  "bottomWallSelectorHS": "Home Screen",
+  "bottomWallSelectorLS": "Lock Screen",
+  "bottomWallSelectorBS": "Both Screens"
+}
