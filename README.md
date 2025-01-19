@@ -1,7 +1,7 @@
 
 # Palettes Wallpaper App
 
-**Palettes** is a modern, minimalistic wallpaper app designed to deliver a wide variety of wallpapers to your device. Powered by the Wallhaven API, Palettes offers trending, curated, and categorized wallpapers in a clean, easy-to-use interface.
+**Palettes** is a modern, minimalistic wallpaper app designed to deliver a wide variety of wallpapers to your device. Powered by the Wallhaven API, Palettes offers trending, curated, and categorized wallpapers in a clean, easy-to-use interface. This app is a redesigned UI for the Wallhaven app, offering a fresh and minimal experience for wallpaper enthusiasts.
 
 ## Features
 
@@ -14,11 +14,11 @@
 - **Apply Wallpapers**: Set wallpapers directly from the app for your home screen, lock screen, or both.
 - **Smooth and Minimal UI**: A clean and fast user interface designed to provide a seamless user experience.
 
-## Screenshots
+## Announcement
 
-![Home Screen](path_to_screenshot1)
-![Categories](path_to_screenshot2)
-![Wallpaper Preview](path_to_screenshot3)
+**Palettes** is currently not receiving further updates as I am focused on developing the next version of the app. **DotPaper**, the new and improved wallpaper app, is coming soon with version 2.0! DotPaper will feature enhanced functionality, better performance, and a new modern design to provide an even better user experience.
+
+Stay tuned for **DotPaper 2.0**!
 
 ## Getting Started
 
@@ -79,4 +79,4 @@ If you have any questions, feel free to contact me at [souravkaushik.dev@gmail.c
 
 ---
 
-This is a basic structure for a README file. You can modify the sections as per your app's details and the features you wish to highlight!
+This version no longer contains the screenshot section. Let me know if you need any further modifications!
