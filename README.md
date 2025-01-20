@@ -61,7 +61,7 @@ Palettes utilizes the **Wallhaven API** to fetch high-quality wallpapers from va
 
 ## License
 
-Spalettes Wallpaper App License Agreement
+Palettes Wallpaper App License Agreement
 
 App Name: Palettes
 Based On: Wallhaven API
@@ -70,7 +70,7 @@ Version: 1.0
 This license agreement governs your use of the Palettes Wallpaper App ("App"). By downloading, installing, or using this App, you agree to the following terms:
 
 App Description
-The Spalettes Wallpaper App is based on the Wallhaven API, with significant UI changes and improvements to enhance the user experience.
+The Palettes Wallpaper App is based on the Wallhaven API, with significant UI changes and improvements to enhance the user experience.
 
 Restrictions on Use
 
