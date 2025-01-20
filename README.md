@@ -77,6 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to contact me at [souravkaushik.dev@gmail.com](mailto:souravkaushik.dev@gmail.com).
 
----
-
-This version no longer contains the screenshot section. Let me know if you need any further modifications!
