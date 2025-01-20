@@ -59,19 +59,35 @@ To run the project locally, ensure you have the following tools installed:
 
 Palettes utilizes the **Wallhaven API** to fetch high-quality wallpapers from various categories, including popular, random, and curated collections. You can explore more about the Wallhaven API [here](https://wallhaven.cc/help/api).
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a pull request.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Spalettes Wallpaper App License Agreement
+
+App Name: Palettes
+Based On: Wallhaven API
+Version: 1.0
+
+This license agreement governs your use of the Palettes Wallpaper App ("App"). By downloading, installing, or using this App, you agree to the following terms:
+
+App Description
+The Spalettes Wallpaper App is based on the Wallhaven API, with significant UI changes and improvements to enhance the user experience.
+
+Restrictions on Use
+
+You are granted a limited, non-transferable, non-exclusive right to use the App for personal purposes.
+You are not allowed to modify, alter, or edit the App or its contents in any way.
+You are not allowed to republish or redistribute the App, in whole or in part, on any platform, including but not limited to websites, mobile app stores, or social media.
+You must not use the App in any commercial endeavors without prior written permission from the creator.
+Legal Action
+Any violation of this agreement, including unauthorized editing, republishing, or redistribution of the App, will result in strict legal action being taken against the violator. This includes, but is not limited to, claims for damages, injunctions, and other legal remedies available under applicable law.
+
+Termination
+The license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with the terms of this agreement.
+
+Limitation of Liability
+The App is provided "as is," without warranty of any kind. The creator is not responsible for any damages or losses incurred as a result of using the App.
+
+
 
 ## Contact
 
